@@ -1,0 +1,4 @@
+{
+  "endpoint": "api/fuzzy-quetzal",
+  "root": "stepzen/curl"
+}
